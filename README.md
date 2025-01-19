@@ -12,9 +12,12 @@ This documentation outlines the code structure and insights derived from the dat
 This project was made for the Convolve4.0 competition where we had to determine the probability of a person defaulting on their credit.
 
 **NOTE:** I was limited by my hardware (and the cost of training models on cloud) T-T
-So I haven't properly tuned any of the hyperparameters and just random guessed most of them based on other people's work. I recommend tuning the hyperparameters first, and then running the training and prediction modules by commenting them out, if you face the same problems as me.
 
-In the future I will come back to this repo to make it make it more approachable and easy to work with.
+So I haven't properly tuned any of the hyperparameters and just randomly guessed most of them based on other people's work. 
+
+I recommend tuning the hyperparameters first, and then running the training and prediction modules by commenting them out, if you face the same problems as me.
+
+In the future I will come back to this repo to add references, make it more approachable and easy and fun to run/work with.
 
 ### Insights Overview
 
